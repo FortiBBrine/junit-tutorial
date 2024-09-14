@@ -1,4 +1,4 @@
-package me.fortibrine.junit;
+package me.fortibrine.junit.player;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

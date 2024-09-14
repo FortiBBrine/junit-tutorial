@@ -1,7 +1,7 @@
-package me.fortibrine.junit.test;
+package me.fortibrine.junit.test.player;
 
-import me.fortibrine.junit.Player;
-import me.fortibrine.junit.PlayerStatistics;
+import me.fortibrine.junit.player.Player;
+import me.fortibrine.junit.player.PlayerStatistics;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
