@@ -1,13 +1,10 @@
 package me.fortibrine.junit.test.student;
 
 import me.fortibrine.junit.student.StudentScoreCalculator;
-import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.MethodSource;
-import org.junit.jupiter.params.provider.ValueSource;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
-
 
 public class StudentScoreCalculatorTest {
 
