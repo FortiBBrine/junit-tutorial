@@ -1,4 +1,4 @@
-package me.fortibrine.junit.test;
+package me.fortibrine.junit.test.trainbarriers;
 
 import me.fortibrine.junit.passenger.EmailService;
 import me.fortibrine.junit.passenger.PassengerRepository;
