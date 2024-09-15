@@ -19,6 +19,8 @@ dependencies {
 
     testImplementation("org.mockito:mockito-core:5.13.0")
 
+    testImplementation("org.assertj:assertj-core:3.26.3")
+
 }
 
 tasks {
